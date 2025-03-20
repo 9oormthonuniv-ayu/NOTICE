@@ -3,8 +3,9 @@ Github으로 과제 올리기 🥲
 
 <br />
 
-1️. AND-SOPT-WEB Organization 접속
-
+1️. 9oormthonuniv-ayu Organization 접속
+</br>
+<a href="https://github.com/9oormthonuniv-ayu">구름톤 유니브 안양</a>
 
 2️. 본인 Repository 찾기
 
